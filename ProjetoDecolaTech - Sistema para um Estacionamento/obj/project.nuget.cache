@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyjyvoMH8gzQqial8ePajCj4vU+MIPYVof1w+DtaYBSXZjrt+i/9TmMg3But0PHcrTZXGU3XFpfhWdC3SSXgww==",
+  "success": true,
+  "projectFilePath": "C:\\Códigos\\VSCode\\C# Códigos\\ProjetoDecolaTech - Sistema para um Estacionamento\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
